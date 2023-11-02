@@ -10,7 +10,7 @@ class SoftwareEngineer {
   constructor() {
     this.name = "Enzo Vezzaro";
     this.spokenLanguages = ["es_ES", "en_US", "it_IT"];
-    this.roles = ["Frontend", "Fullstack", "JS Developer"];
+    this.roles = ["Frontend", "Backend", "Fullstack", "JS Developer"];
     this.mainSkills = ["Javascript", "Cloud Architecture", "API Design", "Web3"];
     this.architectures = ["SPA", "MVC", "Serverless", "Microservices", "Web3"];
   }
