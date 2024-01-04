@@ -43,16 +43,12 @@ SoftwareEngineer.sayHi();
 
 ## 🗂️ OpenSource Projects
 
-<a href="https://github.com/oceanprotocol/market">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=market&show_icons=true" alt="market" />
-</a>
-
-<a href="https://github.com/oceanprotocol/docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=docs&show_icons=true" alt="ocean docs" />
-</a>
-
 <a href="https://github.com/Aletheia-Data/aletheiadata.org">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aletheia-Data&repo=aletheiadata.org&show_icons=true" alt="docs.aletheiadata.org" />
+</a>
+
+<a href="https://github.com/Aletheia-Data/aletheia-sdk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aletheia-Data&repo=aletheia-sdk&show_icons=true" alt="Dockerdoo" />
 </a>
 
 <a href="https://github.com/Aletheia-Data/strapi-provider-upload-web3-storage">
@@ -63,8 +59,20 @@ SoftwareEngineer.sayHi();
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoVezzaro&repo=Ultimate-Front-End-Started-Kit&show_icons=true" alt="datos-portal-backend" />
 </a>
 
-<a href="https://github.com/AWeb3Agency/legal-gpt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AWeb3Agency&repo=legal-gpt&show_icons=true" alt="PyAzul" />
+<a href="https://github.com/oceanprotocol/market">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=market&show_icons=true" alt="market" />
+</a>
+
+<a href="https://github.com/oceanprotocol/docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=docs&show_icons=true" alt="ocean docs" />
+</a>
+
+<a href="https://github.com/oceanprotocol/uploader-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=uploader-ui&show_icons=true" alt="ocean uploader-ui-lib" />
+</a>
+
+<a href="https://github.com/oceanprotocol/uploader-ui-lib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oceanprotocol&repo=uploader-ui-lib&show_icons=true" alt="ocean uploader-ui-lib" />
 </a>
 
 ## 🔧 Favorite Technologies & Tools
