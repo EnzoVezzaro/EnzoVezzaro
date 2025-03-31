@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-enzovezzaro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-vezzaro/)](https://www.linkedin.com/in/enzo-vezzaro/)
 [![Twitter Badge](https://img.shields.io/badge/-@enzovezzaro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enzo_vezzaro)](https://twitter.com/enzo_vezzaro)
-[![Medium Badge](https://img.shields.io/badge/-@enzovezzaro-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@insuladigitalstudio)](https://medium.com/@insuladigitalstudio)
+[![Medium Badge](https://img.shields.io/badge/-@enzovezzaro-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@insuladigitalstudio)](http://medium.com/@enzovezzaro)
 [![Gmail Badge](https://img.shields.io/badge/-enzovezzaro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:enzo-vezzaro@live.it)](mailto:enzo-vezzaro@live.it)
 
 ```javascript
