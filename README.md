@@ -43,6 +43,10 @@ SoftwareEngineer.sayHi();
 
 ## 🗂️ OpenSource Projects
 
+<a href="https://github.com/EnzoVezzaro/gamepeer-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoVezzaro&repo=gamepeer-js&show_icons=true" alt="game-peer-website" />
+</a>
+
 <a href="https://github.com/Aletheia-Data/aletheiadata.org">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aletheia-Data&repo=aletheiadata.org&show_icons=true" alt="docs.aletheiadata.org" />
 </a>
