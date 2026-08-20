@@ -51,13 +51,12 @@ SoftwareEngineer.sayHi();
 * 🔐 [AI Private Platform](https://github.com/EnzoVezzaro/ai-private-platform) — A platform for private and user-controlled AI.
 * 🧠 [Pocket AI](https://github.com/EnzoVezzaro/pocket-ai) — Lightweight AI designed to run closer to the user.
 * 🤖 [All-in-One AI](https://github.com/EnzoVezzaro/all-in-one-ai) — A unified environment for experimenting with different AI capabilities.
-* 💬 [AI Talks](https://github.com/EnzoVezzaro/ai-talks) — Experiments in conversational AI and human–AI interaction.
+* 💬 [AI Talks](https://github.com/EnzoVezzaro/ai-talks) — Conversational AI over a share hardware.
 * 🌐 [GitHub AI Websites](https://github.com/EnzoVezzaro/github-ai-websites) — Experiments combining GitHub, AI, and interactive web experiences.
-* 🤖 [Explorian Assistant](https://github.com/EnzoVezzaro/explorian-assistant) — An AI assistant for exploration, research, and discovery.
+* 🤖 [Explorian Assistant](https://github.com/EnzoVezzaro/explorian-assistant) — Discover the Magic of Dominican Republic Explore pristine beaches, vibrant culture, and hidden gems with our intelligent travel assistant.
 * ✍️ [SocialGen Creator](https://github.com/EnzoVezzaro/socialgen-creator) — AI-assisted tools for creating social media content.
 * 🍌 [Nano Edit Studio](https://github.com/EnzoVezzaro/nano-edit-studio) — A lightweight environment for AI-assisted content editing.
 * 🧾 [Invoice Preview Genie](https://github.com/EnzoVezzaro/invoice-preview-genie) — An AI-assisted invoice generation and preview experiment.
-* 🎵 [AI Suno vs Song](https://github.com/EnzoVezzaro/AI-Suno-vs-Song) — An experiment exploring AI-generated music.
 * 🐦 [AI Twitter Clone](https://github.com/EnzoVezzaro/AI-Twitter-Clone) — An experimental social platform built around AI.
 * 🔬 [Health Lens AI](https://github.com/EnzoVezzaro/health-lens-ai) — An experimental interface for exploring health information.
 
@@ -100,9 +99,10 @@ SoftwareEngineer.sayHi();
 
 ### Games & Interactive Software
 
-* 🎲 [Dominican Monopoly Adventure](https://github.com/EnzoVezzaro/dominican-monopoly-adventure) — A Dominican-themed interactive Monopoly-style game.
 * 🏀 [ABA Arena](https://github.com/EnzoVezzaro/aba-arena) — ACC Battle Arena. Side-by-side agent benchmarks (ACC vs no-ACC).
 * 🎮 [AI Game Arena](https://github.com/EnzoVezzaro/ai-game-arena) — AI Game Arena is a plugin-driven platform where artificial intelligence agents compete, cooperate, communicate, and evolve inside programmable worlds called Battles.
+* 🎵 [AI Suno vs Song](https://github.com/EnzoVezzaro/AI-Suno-vs-Song) — A game where you guess whether a song was made by a human or AI.
+* 🎲 [3D Dominican Monopoly Adventure](https://github.com/EnzoVezzaro/dominican-monopoly-adventure) — A 3D Dominican-themed interactive Monopoly- style game.
 
 ### Developer Tools & Utilities
 
