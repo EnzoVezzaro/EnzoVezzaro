@@ -64,6 +64,7 @@ SoftwareEngineer.sayHi();
 ### P2P, Distributed Systems & WebAssembly
 
 * 🌐 [WebAssemblyOS](https://github.com/EnzoVezzaro/WebAssemblyOS) — An experimental operating environment built around WebAssembly.
+* 📻 [IFM](https://github.com/ifmprotocol/ifm) — An open, decentralized communication protocol for peer-to-peer broadcast over a distributed mesh network.
 * 💬 [Chat Peer](https://github.com/EnzoVezzaro/chat-peer) — Peer-to-peer communication for the web.
 * 🤝 [Peer-to-Peer Handshake Docs](https://github.com/EnzoVezzaro/peer-to-peer-handshake-docs) — Documentation and experiments around P2P connection handshakes.
 * 🎮 [GamePeerJS](https://github.com/EnzoVezzaro/gamepeer-js) — Peer-to-peer networking for browser games and interactive applications.
