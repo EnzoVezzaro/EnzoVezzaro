@@ -187,7 +187,7 @@ SoftwareEngineer.sayHi();
 
 ## Latest Blog Posts
 
-- ✍️ [Markdown Is All You Need — So I Built ACC](https://medium.com/@enzovezzaro/markdown-is-all-you-need-so-i-built-acc-6f9f7283b758) — The story behind Agent Code Context (ACC) and why context, graphs, vector rag aren't enough to help AI agents understand and work with codebases (and us).
+- ✍️ [Markdown Is All You Need — So I Built ACC](https://medium.com/@enzovezzaro/markdown-is-all-you-need-so-i-built-acc-6f9f7283b758) — The story behind Agent Code Context (ACC) and why file context, graphs, vector rag aren't enough to help AI agents understand and work with codebases (and us).
 
 - 🧩 [Vibe Coding Adventures: Day 10 — Dominican Congress MCP](https://medium.com/@enzovezzaro/vibe-coding-adventures-day-10-dominican-congress-mcp-dae1074ab4ce) — Building an MCP-powered interface for exploring information from the Dominican Congress.
 
