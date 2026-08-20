@@ -109,7 +109,7 @@ SoftwareEngineer.sayHi();
 * 📦 [Ultimate Front End Starter Kit](https://github.com/EnzoVezzaro/Ultimate-Front-End-Started-Kit) — A reusable foundation for modern frontend projects.
 * 🚀 [Started Kit](https://github.com/EnzoVezzaro/Started-Kit) — A lightweight project starter and development foundation.
 * 🔳 [QR Code Generator](https://github.com/EnzoVezzaro/qr-code-generator) — A simple open-source QR code generation tool.
-* 🐙 [GitHub Env](https://github.com/EnzoVezzaro/github-env) — Tools for creating development environments around GitHub workflows.
+* 🐙 [GitHub Env](https://github.com/EnzoVezzaro/github-env) — Tools for sharing development environments file around GitHub workflows.
 
 ## Favorite Technologies & Tools
 
