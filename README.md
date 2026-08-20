@@ -47,13 +47,13 @@ SoftwareEngineer.sayHi();
 ### AI & Agentic Systems
 
 * 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) — Structured context and tooling that helps AI agents understand and work with codebases.
-* 🤖 [Explorian Assistant](https://github.com/EnzoVezzaro/explorian-assistant) — An AI assistant for exploration, research, and discovery.
 * 🧬 [Prime](https://github.com/EnzoVezzaro/prime) — Open-source infrastructure for AI-native development and autonomous coding agents.
-* 💬 [AI Talks](https://github.com/EnzoVezzaro/ai-talks) — Experiments in conversational AI and human–AI interaction.
 * 🔐 [AI Private Platform](https://github.com/EnzoVezzaro/ai-private-platform) — A platform for private and user-controlled AI.
 * 🧠 [Pocket AI](https://github.com/EnzoVezzaro/pocket-ai) — Lightweight AI designed to run closer to the user.
 * 🤖 [All-in-One AI](https://github.com/EnzoVezzaro/all-in-one-ai) — A unified environment for experimenting with different AI capabilities.
+* 💬 [AI Talks](https://github.com/EnzoVezzaro/ai-talks) — Experiments in conversational AI and human–AI interaction.
 * 🌐 [GitHub AI Websites](https://github.com/EnzoVezzaro/github-ai-websites) — Experiments combining GitHub, AI, and interactive web experiences.
+* 🤖 [Explorian Assistant](https://github.com/EnzoVezzaro/explorian-assistant) — An AI assistant for exploration, research, and discovery.
 * ✍️ [SocialGen Creator](https://github.com/EnzoVezzaro/socialgen-creator) — AI-assisted tools for creating social media content.
 * 🍌 [Nano Edit Studio](https://github.com/EnzoVezzaro/nano-edit-studio) — A lightweight environment for AI-assisted content editing.
 * 🧾 [Invoice Preview Genie](https://github.com/EnzoVezzaro/invoice-preview-genie) — An AI-assisted invoice generation and preview experiment.
