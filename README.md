@@ -66,7 +66,7 @@ SoftwareEngineer.sayHi();
 * 🌐 [WebAssemblyOS](https://github.com/EnzoVezzaro/WebAssemblyOS) — An experimental operating environment built around WebAssembly.
 * 📻 [IFM](https://ifm-landing.enzo-vezzaro.workers.dev/) — An open, decentralized communication protocol for peer-to-peer broadcast over a distributed mesh network.
 * 💬 [Chat Peer](https://github.com/EnzoVezzaro/chat-peer) — Peer-to-peer communication for the web.
-* 🤝 [Peer-to-Peer Handshake Docs](https://github.com/EnzoVezzaro/peer-to-peer-handshake-docs) — Documentation and experiments around P2P connection handshakes.
+* 🤝 [Peer-to-Peer Handshake Docs](https://github.com/EnzoVezzaro/peer-to-peer-handshake-docs) — HandShare lets you share files directly between devices—no cloud, no uploads, no middleman. Private, secure, and simple.
 * 🎮 [GamePeerJS](https://github.com/EnzoVezzaro/gamepeer-js) — Peer-to-peer networking for browser games and interactive applications.
 * 🐙 [GitHub Env](https://github.com/EnzoVezzaro/github-env) — Experimental development environments built around GitHub.
 
