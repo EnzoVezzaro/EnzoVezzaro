@@ -108,7 +108,6 @@ SoftwareEngineer.sayHi();
 * 🚀 [Started Kit](https://github.com/EnzoVezzaro/Started-Kit) — A lightweight project starter and development foundation.
 * 🔳 [QR Code Generator](https://github.com/EnzoVezzaro/qr-code-generator) — A simple open-source QR code generation tool.
 * 🐙 [GitHub Env](https://github.com/EnzoVezzaro/github-env) — Tools for creating development environments around GitHub workflows.
-* 🐟 [Medusa Server](https://github.com/EnzoVezzaro/medusa-server) — An experimental server-side software project.
 
 ## Favorite Technologies & Tools
 
