@@ -225,7 +225,7 @@ Escribí este manifiesto **de desarrollador a desarrollador**, desde una perspec
 
 Si te interesa saber por qué pienso así y qué futuro creo que nos espera, **te invito a leerlo.**
 
-→ **[Leer el manifiesto](./manifesto.md)**
+→ **[Leer el manifiesto](./MANIFIESTO.md)**
 
 <div align="center">
 
