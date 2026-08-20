@@ -221,9 +221,9 @@ Hace unos 12 años empecé a programar casi sin saber muy bien dónde me estaba 
 
 Hoy, con la inteligencia artificial cambiando tan rápido la manera en que construimos software, me dieron ganas de parar un momento y escribir sobre todo esto: sobre lo que significa ser desarrollador, sobre el open source, sobre la abstracción y, sobre todo, sobre el futuro que quiero que construyamos.
 
-Escribí este manifiesto **de desarrollador a desarrollador**, desde una perspectiva muy personal. No es una guía técnica ni una predicción sobre la IA. Es simplemente una conversación que quería tener con quienes, de una forma u otra, también construyen con tecnología.
+Escribí este manifiesto **de desarrollador a desarrollador**, desde una perspectiva muy personal. No es una guía técnica ni una predicción sobre la IA. Es simplemente una conversación que quería tener con quienes, de una forma u otra, construyen el futuro.
 
-Si te interesa saber por qué pienso así y qué futuro me gustaría ver, **te invito a leerlo.**
+Si te interesa saber por qué pienso así y qué futuro creo que nos espera, **te invito a leerlo.**
 
 → **[Leer el manifiesto](./manifesto.md)**
 
