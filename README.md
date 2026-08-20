@@ -101,7 +101,8 @@ SoftwareEngineer.sayHi();
 ### Games & Interactive Software
 
 * 🎲 [Dominican Monopoly Adventure](https://github.com/EnzoVezzaro/dominican-monopoly-adventure) — A Dominican-themed interactive Monopoly-style game.
-* 🏀 [ABA Arena](https://github.com/EnzoVezzaro/aba-arena) — An interactive basketball-focused project.
+* 🏀 [ABA Arena](https://github.com/EnzoVezzaro/aba-arena) — ACC Battle Arena. Side-by-side agent benchmarks (ACC vs no-ACC).
+* 🎮 [AI Game Arena](https://github.com/EnzoVezzaro/ai-game-arena) — AI Game Arena is a plugin-driven platform where artificial intelligence agents compete, cooperate, communicate, and evolve inside programmable worlds called Battles.
 
 ### Developer Tools & Utilities
 
