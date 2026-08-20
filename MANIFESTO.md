@@ -1,4 +1,4 @@
-# Manifiesto de Prime
+# De desarrollador a desarrollador
 
 Por donde empezar, no quiero repetir lo mencionado en el [blog post](https://medium.com/@enzovezzaro/markdown-is-all-you-need-so-i-built-acc-6f9f7283b758?postPublishedType=repub), ni explicar [código](https://github.com/EnzoVezzaro/agents-code-context), aquí quisiera expresar algo de desarrollador a desarrollador.
 
