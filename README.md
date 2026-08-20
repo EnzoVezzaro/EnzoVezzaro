@@ -215,6 +215,14 @@ I believe open source is more than publishing code. It is a way of making ideas 
 
 `Open Source` · `AI Agents` · `Developer Tools` · `P2P` · `WebAssembly` · `Distributed Systems` · `Open Data` · `Web3` · `Research`
 
+## De desarrollador a desarrollador
+
+No es otro texto sobre el futuro de la IA. Es simplemente una reflexión, de desarrollador a desarrollador, sobre por qué empecé a programar, lo que he aprendido construyendo durante estos años y por qué sigo creyendo tanto en el software, el open source y en las personas que lo hacen posible.
+
+Sobre lo que estamos construyendo, hacia dónde vamos y el futuro que me gustaría que construyéramos juntos.
+
+→ **[Leer el manifiesto](./manifesto.md)**
+
 <div align="center">
 
 <a href="https://github.com/EnzoVezzaro/EnzoVezzaro/graphs/contributors">
