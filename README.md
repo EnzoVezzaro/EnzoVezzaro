@@ -217,9 +217,13 @@ I believe open source is more than publishing code. It is a way of making ideas 
 
 ## De desarrollador a desarrollador
 
-No es otro texto sobre el futuro de la IA. Es simplemente una reflexión, de desarrollador a desarrollador, sobre por qué empecé a programar, lo que he aprendido construyendo durante estos años y por qué sigo creyendo tanto en el software, el open source y en las personas que lo hacen posible.
+Hace unos 12 años empecé a programar casi sin saber muy bien dónde me estaba metiendo. Lo que comenzó como una forma de ayudarle a mi esposa con algunas tareas terminó convirtiéndose en mi profesión y, con los años, en una de las formas que tengo de entender el mundo.
 
-Sobre lo que estamos construyendo, hacia dónde vamos y el futuro que me gustaría que construyéramos juntos.
+Hoy, con la inteligencia artificial cambiando tan rápido la manera en que construimos software, me dieron ganas de parar un momento y escribir sobre todo esto: sobre lo que significa ser desarrollador, sobre el open source, sobre la abstracción y, sobre todo, sobre el futuro que quiero que construyamos.
+
+Escribí este manifiesto **de desarrollador a desarrollador**, desde una perspectiva muy personal. No es una guía técnica ni una predicción sobre la IA. Es simplemente una conversación que quería tener con quienes, de una forma u otra, también construyen con tecnología.
+
+Si te interesa saber por qué pienso así y qué futuro me gustaría ver, **te invito a leerlo.**
 
 → **[Leer el manifiesto](./manifesto.md)**
 
