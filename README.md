@@ -47,7 +47,7 @@ SoftwareEngineer.sayHi();
 ### AI & Agentic Systems
 
 * 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) — Structured context and tooling that helps AI agents understand and work with codebases.
-* 🧬 [Prime](https://github.com/EnzoVezzaro/prime) — Open-source infrastructure for AI-native development and autonomous coding agents.
+* 🧬 [Prime](https://github.com/EnzoVezzaro/prime) — Research into a universal, language-agnostic representation that lets next-generation agents understand and operate on codebases without retrieving the underlying source.
 * 🔐 [AI Private Platform](https://github.com/EnzoVezzaro/ai-private-platform) — A platform for private and user-controlled AI.
 * 🧠 [Pocket AI](https://github.com/EnzoVezzaro/pocket-ai) — Lightweight AI designed to run closer to the user.
 * 🤖 [All-in-One AI](https://github.com/EnzoVezzaro/all-in-one-ai) — A unified environment for experimenting with different AI capabilities.
