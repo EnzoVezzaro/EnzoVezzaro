@@ -74,7 +74,6 @@ me.sayHi();
 * 🔬 [ResearchOS](https://github.com/EnzoVezzaro/researchos) — An experimental environment for research, computation, and knowledge exploration.
 * ⏳ [Entropic Time Theory](https://github.com/EnzoVezzaro/entropic-time-theory) — An exploration of time, entropy, and theoretical models.
 * ❓ [What If](https://github.com/EnzoVezzaro/what-if) — A tool for exploring hypothetical historical scenarios and timelines.
-* 🖥️ [WebAssemblyOS](https://github.com/EnzoVezzaro/WebAssemblyOS) — Exploring alternative approaches to operating environments and computing.
 
 ### Open Data, MCP & Dominican Technology
 
