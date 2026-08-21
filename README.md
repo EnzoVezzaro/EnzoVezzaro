@@ -34,7 +34,7 @@ class SoftwareEngineer {
 }
 
 const me = new SoftwareEngineer();
-SoftwareEngineer.sayHi();
+me.sayHi();
 ````
 
 ## GitHub
