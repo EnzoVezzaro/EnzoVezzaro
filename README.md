@@ -14,7 +14,7 @@ class SoftwareEngineer {
       "Open Source",
       "Artificial Intelligence",
       "Distributed Systems",
-      "Developer Tools"
+      "Developer Tools",
     ];
     this.interests = [
       "AI Agents",
@@ -22,11 +22,11 @@ class SoftwareEngineer {
       "WebAssembly",
       "Web3",
       "Open Data",
-      "Research"
+      "Research",
     ];
   }
 
-  static sayHi() {
+  sayHi() {
     console.log(
       "I build open-source software, tools, and experiments around emerging technologies."
     );
