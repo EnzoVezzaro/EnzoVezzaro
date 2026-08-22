@@ -46,8 +46,8 @@ me.sayHi();
 
 ### AI & Agentic Systems
 
-* 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) — Structured context and tooling that helps AI agents understand and work with codebases.
-* 🧬 [Prime](https://github.com/EnzoVezzaro/prime) — Research into a universal, language-agnostic representation that lets next-generation agents understand and operate on codebases without retrieving the underlying source.
+* 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) (👨🏼‍🏭) — Structured context and tooling that helps AI agents understand and work with codebases.
+* 🧬 [Prime](https://github.com/EnzoVezzaro/prime) (👨🏼‍🏭) — Research into a universal, language-agnostic representation that lets next-generation agents understand and operate on codebases without retrieving the underlying source.
 * 🔐 [AI Private Platform](https://github.com/EnzoVezzaro/ai-private-platform) — A platform for private and user-controlled AI.
 * 🧠 [Pocket AI](https://github.com/EnzoVezzaro/pocket-ai) — Lightweight AI designed to run closer to the user.
 * 🤖 [All-in-One AI](https://github.com/EnzoVezzaro/all-in-one-ai) — A unified environment for experimenting with different AI capabilities.
@@ -62,8 +62,8 @@ me.sayHi();
 
 ### P2P, Distributed Systems & WebAssembly
 
-* 🌐 [WebAssemblyOS](https://github.com/EnzoVezzaro/WebAssemblyOS) — An experimental operating environment built around WebAssembly.
-* 📻 [IFM](https://ifm-landing.enzo-vezzaro.workers.dev/) — An open, decentralized communication protocol for peer-to-peer broadcast over a distributed mesh network.
+* 🌐 [WebAssemblyOS](https://github.com/EnzoVezzaro/WebAssemblyOS) (👨🏼‍🏭) — An experimental operating environment built around WebAssembly.
+* 📻 [IFM](https://ifm-landing.enzo-vezzaro.workers.dev/) (👨🏼‍🏭) — An open, decentralized communication protocol for peer-to-peer broadcast over a distributed mesh network.
 * 💬 [Chat Peer](https://github.com/EnzoVezzaro/chat-peer) — Peer-to-peer communication for the web.
 * 🤝 [Peer-to-Peer Handshake Docs](https://github.com/EnzoVezzaro/peer-to-peer-handshake-docs) — HandShare lets you share files directly between devices—no cloud, no uploads, no middleman. Private, secure, and simple.
 * 🎮 [GamePeerJS](https://github.com/EnzoVezzaro/gamepeer-js) — Peer-to-peer networking for browser games and interactive applications.
