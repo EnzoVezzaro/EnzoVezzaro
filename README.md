@@ -105,7 +105,7 @@ me.sayHi();
 
 ### Developer Tools & Utilities
 
-* 💲 [RepoSell](https://reposell.dev/) — reposell turns any Git repository into something people can buy — checkout, licensing and signed releases wired by a single command. No platform lock-in. You keep every sale.
+* 💲 [RepoSell](https://reposell.dev/) (👨🏼‍🏭) — reposell turns any Git repository into something people can buy — checkout, licensing and signed releases wired by a single command. No platform lock-in. You keep every sale.
 * 📦 [Ultimate Front End Starter Kit](https://github.com/EnzoVezzaro/Ultimate-Front-End-Started-Kit) — A reusable foundation for modern frontend projects.
 * 🚀 [Started Kit](https://github.com/EnzoVezzaro/Started-Kit) — A lightweight project starter and development foundation.
 * 🔳 [QR Code Generator](https://github.com/EnzoVezzaro/qr-code-generator) — A simple open-source QR code generation tool.
