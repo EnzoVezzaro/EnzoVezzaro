@@ -187,6 +187,19 @@ me.sayHi();
 * 🧰 Building developer tools that make software development more accessible, programmable, and collaborative.
 * 🌍 Contributing ideas, experiments, and reusable software back to the open-source ecosystem.
 
+## ☕ Support / Buy me a coffee ☕️
+
+If my open-source work helps you, consider supporting its development.
+
+<p align="left">
+  <a href="https://github.com/sponsors/EnzoVezzaro">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20me-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Support me on GitHub Sponsors">
+  </a>
+  <a href="https://ko-fi.com/enzojuniorvezzaro">
+    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy me a coffee on Ko-fi">
+  </a>
+</p>
+
 ## Latest Blog Posts
 
 - ✍️ [Markdown Is All You Need — So I Built ACC](https://medium.com/@enzovezzaro/markdown-is-all-you-need-so-i-built-acc-6f9f7283b758) — The story behind Agent Code Context (ACC) and why file context, graphs, vector rag aren't enough to help AI agents understand and work with codebases (and us).
