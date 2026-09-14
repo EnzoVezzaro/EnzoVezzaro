@@ -106,6 +106,7 @@ me.sayHi();
 ### Developer Tools & Utilities
 
 * 💲 [RepoSell](https://reposell.dev/) (👨🏼‍🏭) — reposell turns any Git repository into something people can buy — checkout, licensing and signed releases wired by a single command. No platform lock-in. You keep every sale.
+* 🛡️ [Repo Shield](https://enzovezzaro.github.io/repo-shield/) (👨🏼‍🏭) — Repo Shield protects every repository you own with a clear AI-training position, canonical licenses, and a weekly monitoring check. Free and open source for every maintainer. No servers, no platform lock-in.*
 * 📦 [Ultimate Front End Starter Kit](https://github.com/EnzoVezzaro/Ultimate-Front-End-Started-Kit) — A reusable foundation for modern frontend projects.
 * 🚀 [Started Kit](https://github.com/EnzoVezzaro/Started-Kit) — A lightweight project starter and development foundation.
 * 🔳 [QR Code Generator](https://github.com/EnzoVezzaro/qr-code-generator) — A simple open-source QR code generation tool.
