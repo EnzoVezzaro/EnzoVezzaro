@@ -5,6 +5,8 @@
 [![Medium](https://img.shields.io/badge/-@enzovezzaro-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@insuladigitalstudio)
 [![Email](https://img.shields.io/badge/-enzovezzaro-c14438?style=flat&logo=gmail&logoColor=white)](mailto:enzo-vezzaro@live.it)
 
+<a href="https://www.makermap.lol/enzo_vezzaro"><img src="https://www.makermap.lol/badge/enzo_vezzaro.svg" alt="Connect with me on Maker Map" width="300" height="54"></a>
+
 ```javascript
 class SoftwareEngineer {
   constructor() {
