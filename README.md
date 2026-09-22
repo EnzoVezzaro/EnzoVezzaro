@@ -48,7 +48,7 @@ me.sayHi();
 
 ### AI & Agentic Systems
 
-* 🤖 ProAgents (👨🏼‍🏭) — An agent development framework for building, configuring, and deploying AI agents, crews, and workflows across different AI coding harnesses.
+* 🤖 [ProAgents]([http://localhost:5173/](https://proagents.reposell.dev/)) (👨🏼‍🏭) — An agent development framework for building, configuring, and deploying AI agents, crews, and workflows across different AI coding harnesses.
 * 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) (👨🏼‍🏭) — Structured context and tooling that helps AI agents understand and work with codebases.
 * 🧬 [Prime](https://github.com/EnzoVezzaro/prime) (👨🏼‍🏭) — Research into a universal, language-agnostic code representation that lets next-generation agents understand and operate on codebases without retrieving the underlying source.
 * 🔐 [AI Private Platform](https://github.com/EnzoVezzaro/ai-private-platform) — A platform for private and user-controlled AI.
