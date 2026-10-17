@@ -2,7 +2,7 @@
 
 **Open-source engineer building the tools, infrastructure, and experiments for a more open internet.**
 
-[Website](https://enzovezzaro.com) · [LinkedIn](https://www.linkedin.com/in/enzo-vezzaro/) · [X](https://twitter.com/enzo_vezzaro) · [GitHub Sponsors](https://github.com/sponsors/EnzoVezzaro)
+[Website](https://enzovezzaro.com) · [LinkedIn](https://www.linkedin.com/in/enzo-vezzaro/) · [X](https://twitter.com/enzo_vezzaro) · [GitHub Sponsors](https://github.com/sponsors/EnzoVezzaro) · [Buy me a coffe](https://ko-fi.com/enzojuniorvezzaro)
 
 [![LinkedIn](https://img.shields.io/badge/-enzovezzaro-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-vezzaro/)
 [![Twitter](https://img.shields.io/badge/-@enzovezzaro-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enzo_vezzaro)
