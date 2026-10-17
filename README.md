@@ -1,4 +1,8 @@
-# Hello World 🌎
+# 👋🌎 Hello World. I'm Enzo Vezzaro.
+
+**Open-source engineer building the tools, infrastructure, and experiments for a more open internet.**
+
+[Website](https://enzovezzaro.com) · [LinkedIn](https://www.linkedin.com/in/enzo-vezzaro/) · [X](https://twitter.com/enzo_vezzaro) · [GitHub Sponsors](https://github.com/sponsors/EnzoVezzaro)
 
 [![LinkedIn](https://img.shields.io/badge/-enzovezzaro-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-vezzaro/)
 [![Twitter](https://img.shields.io/badge/-@enzovezzaro-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enzo_vezzaro)
@@ -44,10 +48,56 @@ me.sayHi();
 * ⭐ [GitHub Profile](https://github.com/EnzoVezzaro) — My open-source work, experiments, and contributions.
 * 📦 [Repositories](https://github.com/EnzoVezzaro?tab=repositories) — The full collection of my public projects.
 
-## Open Source Projects
+---
+
+# Featured Project
+
+<div align="center">
+  <a href="https://github.com/EnzoVezzaro/rea-faang" target="_blank">
+    <img src="https://github.com/EnzoVezzaro/rea-faang/blob/main/docs/assets/brand-logo-icon.png" width="420" alt="RAE FAANG — robot-box icon and wordmark with Meta, Amazon, Apple, Netflix and Google marks" />
+  </a>
+
+## RAE FAANG — We don't need FAANG anymore. <br />Use your agent to build any of their products.
+
+**What if you could build your own version of almost any FAANG product with your coding agent?**
+
+For years, building products like YouTube, WhatsApp, or your own cloud infrastructure seemed to require massive teams, years of work, and resources most developers don't have.
+
+AI coding agents are changing that. But asking an agent to build something is only the beginning. You also need to understand what already exists, what can be reused, which open-source alternatives are available, and how to turn research into executable implementation plans.
+
+**RAE FAANG is building a catalog of products from Meta, Amazon, Apple, Netflix, and Google to help developers explore what they can recreate with AI coding agents and open-source software.**
+
+### ⭐ Give it a star on GitHub
+
+[**→ RAE FAANG on GitHub**](https://github.com/EnzoVezzaro/rea-faang)
+
+*The vision: a world where the capabilities of major technology companies become understandable, discoverable, and increasingly reproducible through open-source building blocks and agentic development.*
+
+# Building the Future of Agentic Software
+
+These projects explore what happens when AI agents become first-class participants in software engineering.
+
+### [ACE ProAgents](https://github.com/EnzoVezzaro/ace-proagents)
+
+**Reproducible environments for agentic coding.**
+
+A Git-native ecosystem for orchestrator-driven agent environments, bringing together configuration, tools, policies, models, and execution workflows.
+
+### [Agent Code Context — ACC](https://github.com/EnzoVezzaro/agents-code-context)
+
+**Make repositories agent-native.**
+
+A convention-first framework that makes software repositories navigable and self-describing through `AGENTS.md` and `.acc/`, without locking projects into one coding agent.
+
+### [ProAgents](https://github.com/EnzoVezzaro/proagents)
+
+**Build and configure agentic systems.**
+
+An open-source CLI and agent skill for designing, validating, and building multi-agent systems through progressive specification and pluggable context.
 
 ### AI & Agentic Systems
 
+* 🤖 [ACE ProAgents](https://github.com/EnzoVezzaro/ace-proagents) (👨🏼‍🏭) — A Git-native ecosystem for orchestrator-driven agent environments, bringing together configuration, tools, policies, models, and execution workflows.
 * 🤖 [ProAgents](https://proagents.reposell.dev/) (👨🏼‍🏭) — An agent development framework for building, configuring, and deploying AI agents, crews, and workflows across different AI coding harnesses.
 * 🧠 [Agent Code Context](https://github.com/EnzoVezzaro/agents-code-context) (👨🏼‍🏭) — Structured context and tooling that helps AI agents understand and work with codebases.
 * 🧬 [Prime](https://github.com/EnzoVezzaro/prime) (👨🏼‍🏭) — Research into a universal, language-agnostic code representation that lets next-generation agents understand and operate on codebases without retrieving the underlying source.
