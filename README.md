@@ -56,6 +56,7 @@ me.sayHi();
   <a href="https://github.com/EnzoVezzaro/rea-faang" target="_blank">
     <img src="https://github.com/EnzoVezzaro/rea-faang/blob/main/docs/assets/brand-logo-icon.png" width="420" alt="RAE FAANG — robot-box icon and wordmark with Meta, Amazon, Apple, Netflix and Google marks" />
   </a>
+</div>
 
 ## RAE FAANG — We don't need FAANG anymore. <br />Use your agent to build any of their products.
 
