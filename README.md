@@ -56,11 +56,10 @@ me.sayHi();
   <a href="https://github.com/EnzoVezzaro/rea-faang" target="_blank">
     <img src="https://github.com/EnzoVezzaro/rea-faang/blob/main/docs/assets/brand-logo-icon.png" width="420" alt="RAE FAANG — robot-box icon and wordmark with Meta, Amazon, Apple, Netflix and Google marks" />
   </a>
+  <h1>RAE FAANG — We don't need FAANG anymore. <br />Use your agent to build any of their products.</h1>
 </div>
 
-## RAE FAANG — We don't need FAANG anymore. <br />Use your agent to build any of their products.
-
-**What if you could build your own version of almost any FAANG product with your coding agent?**
+### **What if you could build your own version of almost any FAANG product with your coding agent?**
 
 For years, building products like YouTube, WhatsApp, or your own cloud infrastructure seemed to require massive teams, years of work, and resources most developers don't have.
 
